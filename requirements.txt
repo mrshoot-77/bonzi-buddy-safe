@@ -1,0 +1,14 @@
+# Core dependencies
+pygame==2.5.2
+python-dotenv==1.0.0
+
+# Optional dependencies for GUI
+PyQt6==6.7.0
+PyQt6-sip==13.6.0
+
+# Logging and utilities
+loguru==0.7.2
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
